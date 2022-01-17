@@ -1,0 +1,5 @@
+Nama : Aditya Rachman
+Umur : 19 Tahun
+Stack : Frontend
+Bahasa Pemrograman : Javascript
+
